@@ -54,3 +54,5 @@ print(j)
 tupla_anidada = ((1, 2),('a', 'b'))
 print(tupla_anidada[0][1])
 
+print(tupla_anidada[1][1])
+
